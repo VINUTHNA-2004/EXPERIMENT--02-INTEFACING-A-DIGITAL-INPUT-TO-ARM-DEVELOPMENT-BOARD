@@ -281,10 +281,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 
-#LED ON CONDITION:
+# LED ON CONDITION:
 ![output](https://github.com/VINUTHNA-2004/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/blob/main/m1.png)
 
-#LED OFF CONDITION:
+# LED OFF CONDITION:
 ![output](https://github.com/VINUTHNA-2004/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/blob/main/m2.png)
 
  
